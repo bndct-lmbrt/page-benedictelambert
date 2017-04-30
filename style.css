@@ -1,0 +1,51 @@
+body {
+  background-color: #1B222A;
+  color: beige;
+  line-height: 1.5;
+
+}
+
+header h1 {
+  margin-bottom: 0;
+  font-family: 'dear joe', serif;
+}
+
+header h2 {
+  margin-top: 0;
+    font-family: 'andale mono', serif;
+    font-size: 15px;
+}
+
+main {
+    font-family: 'Inconsolata', serif;
+    display: flex;
+    justify-content: space-between;
+    height: 500px;
+    border: 1px solid red;
+}
+
+div{
+  border: 1px solid yellow;
+}
+
+#liens {
+  margin-left: 25px;
+  margin-right: 25px;
+
+
+}
+
+#liens a {
+  align-items: center;
+
+}
+
+#bio {
+  margin-left: 25px;
+  margin-right: 25px;
+  flex-grow: 1;
+}
+
+footer {
+
+}
