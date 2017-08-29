@@ -1,5 +1,5 @@
 body {
-  background-color: #white;
+  background-color: #blue;
   color: black;
   line-height: 1.5;
 
@@ -63,7 +63,7 @@ ul {
 
 li a {
     display: block;
-    color: #yellow;
+    color: #green;
     padding: 8px 16px;
     text-decoration: none;
     margin-bottom: 10px;
