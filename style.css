@@ -1,9 +1,9 @@
 body {
-  background-color: #blue;
+
   color: black;
   line-height: 1.5;
-
 }
+
 a {
   color: black;
 }
@@ -11,6 +11,10 @@ a {
 header {
   margin-bottom: 50px;
   margin-left: 15px;
+}
+
+div {
+  text-align: center;
 }
 
 header h1 {
@@ -69,33 +73,16 @@ li a {
     margin-bottom: 10px;
       border: 1px solid #555;
       background-color: white;
-      color : #E91E63
+      color : #red;
 
 }
 
 /* Change the link color on hover */
 li a:hover {
     background-color: #E4D2C3;
-    color: grey;
+    color: #6495ED;
 }
 
-/*li {
-  list-style-type: none;
-  padding: 0 20px 6px;
-  margin-right: 8px;
-  vertical-align: top;
-  background: #F7D3C4;
-  -moz-border-radius: 60px;
-  border-radius: 60px;
-  font-weight: bold;
-  font-size: 0.8em;
-  color: white;
-  margin-bottom: 10px;
-}
-
-
-/*#liens a {;
-}*/
 
 section {
   margin-left: 25px;
@@ -106,7 +93,7 @@ section {
 }
 
 footer {
-  background-color: #F7D3C4;
+  background-color: #E4D2C3;
   text-align: center;
   font-size: 25px;
 }
